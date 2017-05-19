@@ -1,0 +1,14 @@
+[
+    // 複数選択追加
+    {
+        "keys": ["ctrl+m"], "command": "find_under_expand"
+    },
+    // 複数選択スキップ
+    {
+        "keys": ["ctrl+l"], "command": "find_under_expand_skip"
+    },
+    // 複数選択やり直し
+    {
+        "keys": ["ctrl+shift+m"], "command": "soft_undo"
+    }
+ ]
